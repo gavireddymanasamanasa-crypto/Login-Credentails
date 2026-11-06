@@ -17,7 +17,7 @@ A simple Java Web Application for User Login using Servlet and JSP.
 1. Clone this repository
 2. Import into Eclipse as Dynamic Web Project
 3. Run on Apache Tomcat Server
-4. Open in browser: http://localhost:8080/JE5
+4. Open in browser:http://localhost:8080/JE5/login.html
 
 ## Author
 Manasa
